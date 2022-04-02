@@ -1,1 +1,1 @@
-# Hackerrank-Solutions
+Hackerrank Solutions of known and interesting questions
